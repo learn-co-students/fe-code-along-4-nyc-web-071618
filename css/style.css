@@ -97,8 +97,8 @@ section {
   margin-bottom: 20px;
   padding: 20px;
 }
-box-sizing {
-  border-box
+* {
+ box-sizing:border-box;
 }
   
 [class*="col-"] {
