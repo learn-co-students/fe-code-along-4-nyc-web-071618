@@ -133,6 +133,7 @@ img, video, audio {
 header {
   position: fixed;
 }
+
 #social a {
   display: block;
   width: 40px;
