@@ -108,3 +108,6 @@ figcaption {
     display: table;
 }
 
+img, video, audio {
+  max-width: 100%;
+}
